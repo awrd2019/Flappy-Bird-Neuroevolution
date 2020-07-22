@@ -1,2 +1,3 @@
 # Flappy-Bird-Neuroevolution-with-TensorFlow
-Neuro-evolutionary model with TensorFlow to train ai capable of beating flappy bird game. 
+
+Created a neuro-evolutionary model to train an AI capable of beating the game, flappy bird, using TensorFlow.
